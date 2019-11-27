@@ -1,0 +1,16 @@
+1,Wil Wheaton,Gordie Lachance,Stand By Me
+2,River Phoenix,Chris Chambers,Stand By Me
+3,Corey Feldman,Teddy Duchamp,Stand By Me
+4,Jerry O'Connell,Vern Tessio,Stnd By Me
+5,Matt Damon,Will,Good Will Hunting
+6,Ben Affleck,Chuckie,Good Will Hunting
+7,Robin Williams,Sean,Good Will Hunting
+8,Minie Driver,Skylar,Good Will Hunting
+9,Cary Elwes,Westley,The Princess Bride
+10,Mandy Patinkin,Inigo Montoya,The Princess Bride
+11,Fred Savage,The Grandson,The Princess Bride
+12,Robin Wright,The Princess Bride,The Princess Bride
+13,Arnold Schwarzenegger,Dutch,Predator
+14,Carl Weathers,Dillion,Predator
+15,Bill Duke,Mac,Predator
+16,Jesse Ventura,Blain,Predator
