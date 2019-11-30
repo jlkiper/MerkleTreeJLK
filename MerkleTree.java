@@ -34,7 +34,7 @@ public class MerkleTree {
 		@SuppressWarnings("unused")
 		final List<String> db = dataBlock.getDataBlock();
 		
-		//Creates a hash for the databocj using digest algorithm.
+		//Creates a hash for the datablock using digest algorithm.
 		final int numberOfBlocks = ((List<byte[]>) dataBlock).size();
 		
 		for(int i = 0; i < numberOfBlocks-1; i++) {
@@ -49,7 +49,7 @@ public class MerkleTree {
 		
 	}//end digest method
 	
-	//This will initialize the Merkle Tree being empty wit the digest algorithm.
+	//This will initialize the Merkle Tree being empty with the digest algorithm.
 	public MerkleTree(MessageDigest md) {
 		
 		this.md = md;
